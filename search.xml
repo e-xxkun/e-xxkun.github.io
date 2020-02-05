@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/12/02/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(2)/"/>
-      <url>/2019/12/02/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(2)/</url>
+      <title>第二次接触</title>
+      <link href="/2019/12/07/DJATM06/"/>
+      <url>/2019/12/07/DJATM06/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第6集 第二次接触 セカンド・コンタクト</p><p>闪电云</p><a id="more"></a><h2 id="第二次接触-セカンド・コンタクト"><a href="#第二次接触-セカンド・コンタクト" class="headerlink" title="第二次接触 セカンド・コンタクト"></a>第二次接触 セカンド・コンタクト</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>加佐特,克利特斯</p><img src="/images/DJATM/jzt.jpg" width="600" hegiht="340" align="center"><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>掘井，掘井恩师</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>电磁波污染</p>]]></content>
       
       
       <categories>
           
-          <category> 分类A </category>
+          <category> 迪迦奥特曼 </category>
           
       </categories>
       
@@ -23,16 +23,92 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/12/02/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-      <url>/2019/12/02/hello-world%20-%20%E5%89%AF%E6%9C%AC/</url>
+      <title>石头的神话</title>
+      <link href="/2019/12/07/DJATM02/"/>
+      <url>/2019/12/07/DJATM02/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第2集 石头的神话 石の神话</p><a id="more"></a><h2 id="石头的神话-石の神话"><a href="#石头的神话-石の神话" class="headerlink" title="石头的神话 石の神话"></a>石头的神话 石の神话</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>加库玛</p><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>大古</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>神话</p>]]></content>
       
       
       <categories>
           
-          <category> 分类A </category>
+          <category> 迪迦奥特曼 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>怪兽出没的日子</title>
+      <link href="/2019/12/07/DJATM05/"/>
+      <url>/2019/12/07/DJATM05/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第5集 怪兽出没的日子 怪獣が出てきた日</p><p>很臭的怪兽，吞天燃气</p><a id="more"></a><h2 id="怪兽出没的日子-怪獣が出てきた日"><a href="#怪兽出没的日子-怪獣が出てきた日" class="headerlink" title="怪兽出没的日子 怪獣が出てきた日"></a>怪兽出没的日子 怪獣が出てきた日</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>西利赞</p><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>丽娜，指挥</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>污染</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 迪迦奥特曼 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再见了，地球</title>
+      <link href="/2019/12/05/DJATM04/"/>
+      <url>/2019/12/05/DJATM04/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第4集 再见了，地球 サ・ヨ・ナ・ラ地球</p><p>宇宙飞船，吸收能量</p><a id="more"></a><h2 id="再见了，地球-サ・ヨ・ナ・ラ地球"><a href="#再见了，地球-サ・ヨ・ナ・ラ地球" class="headerlink" title="再见了，地球 サ・ヨ・ナ・ラ地球"></a>再见了，地球 サ・ヨ・ナ・ラ地球</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>立加德隆</p><img src="/images/DJATM/ljdl.jpg" width="600" hegiht="340" align="center"><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>新城，三个宇航员</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>亲情</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 迪迦奥特曼 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>恶魔的预言</title>
+      <link href="/2019/12/04/DJATM03/"/>
+      <url>/2019/12/04/DJATM03/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第3集 恶魔的预言 悪魔の预言</p><a id="more"></a><h2 id="恶魔的预言-悪魔の预言"><a href="#恶魔的预言-悪魔の预言" class="headerlink" title="恶魔的预言 悪魔の预言"></a>恶魔的预言 悪魔の预言</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>基里艾洛德人</p><img src="/images/DJATM/jlaldr.jpg" width="600" hegiht="340" align="center"><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>居间慧队长</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>信任</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 迪迦奥特曼 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>发光的迪迦</title>
+      <link href="/2019/12/04/DJATM01/"/>
+      <url>/2019/12/04/DJATM01/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>迪迦奥特曼 第1集 发光的迪迦 光を継ぐもの</p><a id="more"></a><h2 id="发光的迪迦-光を継ぐもの"><a href="#发光的迪迦-光を継ぐもの" class="headerlink" title="发光的迪迦 光を継ぐもの"></a>发光的迪迦 光を継ぐもの</h2><h3 id="怪兽"><a href="#怪兽" class="headerlink" title="怪兽"></a>怪兽</h3><p>哥尔赞，美尔巴，迪迦奥特曼</p><img src="/images/DJATM/gez.jpg" width="600" hegiht="340" align="center"><br><img src="/images/DJATM/meb.jpg" width="600" hegiht="340" align="center"><br><img src="/images/DJATM/djatm.jpg" width="600" hegiht="340" align="center"><h3 id="主角"><a href="#主角" class="headerlink" title="主角"></a>主角</h3><p>大古，居间慧队长</p><h3 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h3><p>唤醒巨人的方法就是，大古变成光（熬成汤）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 迪迦奥特曼 </category>
           
       </categories>
       
@@ -46,7 +122,7 @@
       <link href="/2019/11/22/article-title/"/>
       <url>/2019/11/22/article-title/</url>
       
-        <content type="html"><![CDATA[<h1 id="title"><a href="#title" class="headerlink" title="title"></a>title</h1><p>this is the first time i use the markdown</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="title"><a href="#title" class="headerlink" title="title"></a>title</h1><p>this is the first time i use the markdown</p>]]></content>
       
       
       
@@ -67,7 +143,7 @@
       <link href="/2019/11/22/hello-world/"/>
       <url>/2019/11/22/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
       
       <categories>
